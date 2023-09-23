@@ -20,7 +20,8 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![cal](https://github.com/Sookchand/Calculator/assets/34344439/d5e87dcc-2f25-409f-9851-ccc30ef0d27d)
+
 
 
 ## Tech Stack
